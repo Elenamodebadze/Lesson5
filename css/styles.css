@@ -3,12 +3,15 @@
 	display: inline-block;
 	margin-left: 18px;
 	margin-top: 20px;
-	margin-right: 92px;}
+	margin-right: 92px;
+    margin-bottom: 18px;
+    size: 13px;}
 .navigation {
 	display: inline-block;}
 .nav-li {
 	display: inline-block;
-	margin-right: 22px;}
+	margin-right: 22px;
+    size: 11px;}
 .header-wraper {
 	 background-color: #F6F8F9;
 	 padding: 15px;
@@ -20,5 +23,5 @@
 	margin-left: 40px;
 	margin-top: 11px;}
 .section1 {
-	padding: 75px;
+	padding: 84px;
 }	
