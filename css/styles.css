@@ -1,0 +1,21 @@
+/*header code*/
+.logo {
+	display: inline-block;
+	margin-left: 18px;
+	margin-top: 20px;
+	margin-right: 92px;}
+.navigation {
+	display: inline-block;}
+.nav-li {
+	display: inline-block;
+	margin-right: 22px;}
+.header-wraper {
+	 background-color: #F6F8F9;
+	 padding: 15px;
+	 position: fixed;
+	 top: o;
+	 left: 0;
+	 width: 100%;}
+.nav-image {
+	margin-left: 40px;
+	margin-top: 11px;}
