@@ -23,5 +23,22 @@
 	margin-left: 40px;
 	margin-top: 11px;}
 .section1 {
-	padding: 84px;
+	padding: 109px;}
+.header-h {
+	margin-left: 140px;
 }	
+.right-div {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 140px;
+}	
+.central-div {
+	display: inline-block;
+}
+.left-div {
+	display: inline-block;
+}
+.head-div {
+	font-family: 'Playfair Display', serif;
+	font-size: 13px;
+}
