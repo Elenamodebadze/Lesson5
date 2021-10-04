@@ -40,13 +40,12 @@
 	position: absolute;
 	top: 28px;
 	left: 40px;
-	size: 16px;
+	font-size: 16px;
 	color: #FFFFFF;}
 .right-p {
-	font-size: 10px;
+	font-size: 13px;
 	margin-top: 66px;
 	margin-left: 40px;
-	margin-right: 40px;
 	width: 280px;}
 .right-image {
 	margin-left: 40px;
@@ -57,23 +56,40 @@
 	position: relative;
 	margin-left: 40px;
     background-color: #EBEDED}
-/*.central-p {
-	width: 280px;
+.central-h2 {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-size: 16px;
+	color: #FFFFFF;}
+.central-p {
 	margin-left: 40px;
+	width: 280px;
 	margin-top: 66px;
-    font-size: 13px;}*/
-/*.central-image { 
-    margin-left: 40px;
-    margin-top: 10px; 
-    margin-bottom: 40px;}*/
+	font-size: 13px;}
+.central-image {
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 40px;}
 .left-div {
 	display: inline-block;
 	position: relative;
     background-color: #EBEDED;
     margin-left: 40px;}
-/*.left-p { 
-	width: 280px;
+.left-h2 { 
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    font-size: 16px;
+    color: #FFFFFF;}
+.left-p {
 	margin-left: 40px;
 	margin-top: 66px;
-    font-size: 13px;}*/
+	width: 280px;
+	font-size: 13px;}
+.left-image {
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
 
