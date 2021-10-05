@@ -92,14 +92,16 @@
 	margin-top: 10px;
 	margin-bottom: 40px;}
 .section2-h {
-	margin-left: 120px;
+	margin-left: 240px;
 	margin-top: 58px;
 }
 .div-left {
 	display: inline-block;
 	position: relative;
-    margin-left: 120px;
-    margin-top: 58px;}
+    margin-top: 58px;
+    margin-left: 140px;
+    width: 760px;
+    background-color: #EBEDED;}
 .div2-p {
 	position: absolute;
 	top: 234px;
@@ -112,7 +114,21 @@
 }
 .div-right {
 	display: inline-block;
+    width: 360px;
+    margin-left: 40px;
+    background-color: #EBEDED;
+    margin-right: 140px;}
+.image5 {
+	padding-bottom: 102px;
 }
-
-
+.image6 {
+	padding-bottom: 102px;
+}
+.image7 {
+	padding-bottom: 103px;
+}
+.logo1 {
+	margin-left: 142px;
+	margin-top: 95px;
+	margin-bottom: 129px;
 }
