@@ -5,7 +5,8 @@
 	margin-top: 20px;
 	margin-right: 92px;
     margin-bottom: 18px;
-    size: 13px;}
+    size: 13px;
+    color: red;}
 .navigation {
 	display: inline-block;}
 .nav-li {
@@ -123,7 +124,8 @@
     width: 360px;
     margin-left: 40px;
     background-color: #EBEDED;
-    margin-right: 140px;}
+    margin-right: 140px;
+    ont-family: 'Playfair Display', serif;}
 .image5 {
 	padding-bottom: 102px;
 }
@@ -135,12 +137,17 @@
 }
 .logo1 {
 	display: inline-block;
-    margin-left: 142px;}
+	margin-left: 142px;
+	margin-top: 58px;
+    vertical-align: top;
+    color: white;}
 .footer-div {
 	width: 100%;
 	background-color: #A6ADB4;
 	margin-top: 37px;
-	height: 200px;}
+	height: 200px;
+    color: white;
+    font-size: 13px;}
 .right-divfooter {
 	display: inline-block;
 }
@@ -161,8 +168,11 @@
 .centralfoter-div {
 	display: inline-block;
     padding-left: 104px;
-    padding-top: 62px;}
+    padding-top: 62px;
+    vertical-align: top;}
 .footer-left {
 	display: inline-block;
 	padding-left: 165.2px;
+	vertical-align: top;
+	margin-top: 56px;
 }
