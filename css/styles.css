@@ -3,7 +3,7 @@
 	display: inline-block;
 	margin-left: 18px;
 	margin-top: 20px;
-	margin-right: 150px;
+	margin-right: 92px;
     margin-bottom: 18px;
     size: 13px;}
 .navigation {
@@ -23,10 +23,14 @@
 .nav-image {
 	margin-left: 40px;
 	margin-top: 11px;}
+/*section1 code*/
+
 .section1 {
-	padding: 109px;}
+	padding-top: 109px;
+}
+
 .header-h {
-	margin-left: 120px;
+	margin-left: 140px;
 }	
 .head-div {
 	font-family: 'Playfair Display', serif;
@@ -34,7 +38,7 @@
 .right-div {
 	display: inline-block;
 	margin-top: 40px;
-	margin-left: 120px;
+	margin-left: 140px;
 	position: relative;
     background-color: #EBEDED}	
 .right-h2 {
@@ -92,8 +96,9 @@
 	margin-left: 40px;
 	margin-top: 10px;
 	margin-bottom: 40px;}
+/*section2 code*/
 .section2-h {
-	margin-left: 240px;
+	margin-left: 140px;
 	margin-top: 58px;
 }
 .div-left {
