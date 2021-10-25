@@ -14,25 +14,21 @@
 	margin-right: 22px;
     size: 11px;}
 .header-wraper {
-	 background-color: #F6F8F9;
-	 padding: 15px;
-	 position: fixed;
-	 top: o;
-	 left: 0;
-	 width: 100%;
-	 z-index: 100;}
+	background-color: #F6F8F9;
+	padding: 15px;
+	position: fixed;
+	top: o;
+	left: 0;
+	width: 100%;
+	z-index: 100;}
 .nav-image {
 	margin-left: 40px;
 	margin-top: 11px;}
 /*section1 code*/
-
 .section1 {
-	padding-top: 109px;
-}
-
+	padding-top: 109px;}
 .header-h {
-	margin-left: 140px;
-}	
+	margin-left: 140px;}	
 .head-div {
 	font-family: 'Playfair Display', serif;
 	font-size: 13px;}
@@ -100,8 +96,7 @@
 /*section2 code*/
 .section2-h {
 	margin-left: 140px;
-	margin-top: 58px;
-}
+	margin-top: 58px;}
 .div-left {
 	display: inline-block;
 	position: relative;
@@ -114,11 +109,9 @@
 	top: 234px;
 	left: 300px;
 	font-size: 16px;
-	color: #FFFFFF;
-}
+	color: #FFFFFF;}
 .image4 {
-	margin-top: 40px;
-}
+	margin-top: 40px;}
 .div-right {
 	display: inline-block;
     width: 360px;
@@ -127,14 +120,11 @@
     margin-right: 140px;
     ont-family: 'Playfair Display', serif;}
 .image5 {
-	padding-bottom: 102px;
-}
+	padding-bottom: 102px;}
 .image6 {
-	padding-bottom: 102px;
-}
+	padding-bottom: 102px;}
 .image7 {
-	padding-bottom: 103px;
-}
+	padding-bottom: 103px;}
 .logo1 {
 	display: inline-block;
 	margin-left: 142px;
@@ -149,8 +139,7 @@
     color: white;
     font-size: 13px;}
 .right-divfooter {
-	display: inline-block;
-}
+	display: inline-block;}
 .footer-ul1 {
 	display: inline-block;
 	margin-left: 89px;
@@ -163,8 +152,7 @@
 	padding-left: 96.7px;}
 .left-footer {
 	display: inline-block;
-	margin-left: 110.2px;
-}
+	margin-left: 110.2px;}
 .centralfoter-div {
 	display: inline-block;
     padding-left: 104px;
@@ -174,5 +162,4 @@
 	display: inline-block;
 	padding-left: 165.2px;
 	vertical-align: top;
-	margin-top: 56px;
-}
+	margin-top: 56px;}
